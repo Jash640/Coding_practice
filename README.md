@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jash640/Coding_practice/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -21,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jash640/Coding_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
