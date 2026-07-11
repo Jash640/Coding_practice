@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jash640/Coding_practice/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/Jash640/Coding_practice/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jash640/Coding_practice/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Jash640/Coding_practice/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
 ## Divide and Conquer
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jash640/Coding_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Jash640/Coding_practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
