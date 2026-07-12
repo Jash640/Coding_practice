@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jash640/Coding_practice/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Jash640/Coding_practice/tree/master/0051-n-queens) |
 | [1331-rank-transform-of-an-array](https://github.com/Jash640/Coding_practice/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jash640/Coding_practice/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Jash640/Coding_practice/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
 ## Divide and Conquer
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jash640/Coding_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Jash640/Coding_practice/tree/master/1331-rank-transform-of-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
