@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jash640/Coding_practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Jash640/Coding_practice/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Jash640/Coding_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jash640/Coding_practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jash640/Coding_practice/tree/master/0200-number-of-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Jash640/Coding_practice/tree/master/1331-rank-transform-of-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jash640/Coding_practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jash640/Coding_practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Jash640/Coding_practice/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Jash640/Coding_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jash640/Coding_practice/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jash640/Coding_practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
