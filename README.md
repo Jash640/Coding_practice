@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jash640/Coding_practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jash640/Coding_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jash640/Coding_practice/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Jash640/Coding_practice/tree/master/0200-number-of-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Jash640/Coding_practice/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -109,16 +111,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jash640/Coding_practice/tree/master/0078-subsets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
