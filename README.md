@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jash640/Coding_practice/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jash640/Coding_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0733-flood-fill](https://github.com/Jash640/Coding_practice/tree/master/0733-flood-fill) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jash640/Coding_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jash640/Coding_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jash640/Coding_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jash640/Coding_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
