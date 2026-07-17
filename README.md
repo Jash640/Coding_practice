@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Jash640/Coding_practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Jash640/Coding_practice/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/Jash640/Coding_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Jash640/Coding_practice/tree/master/0435-non-overlapping-intervals) |
 | [0733-flood-fill](https://github.com/Jash640/Coding_practice/tree/master/0733-flood-fill) |
 | [1331-rank-transform-of-an-array](https://github.com/Jash640/Coding_practice/tree/master/1331-rank-transform-of-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Jash640/Coding_practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Jash640/Coding_practice/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Jash640/Coding_practice/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Jash640/Coding_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Jash640/Coding_practice/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jash640/Coding_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/Jash640/Coding_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jash640/Coding_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
