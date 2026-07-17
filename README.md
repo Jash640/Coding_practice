@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jash640/Coding_practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Jash640/Coding_practice/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Jash640/Coding_practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Jash640/Coding_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jash640/Coding_practice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Jash640/Coding_practice/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Jash640/Coding_practice/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Jash640/Coding_practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Jash640/Coding_practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jash640/Coding_practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Jash640/Coding_practice/tree/master/0733-flood-fill) |
