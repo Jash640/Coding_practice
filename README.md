@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Jash640/Coding_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Jash640/Coding_practice/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jash640/Coding_practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jash640/Coding_practice/tree/master/0021-merge-two-sorted-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jash640/Coding_practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jash640/Coding_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jash640/Coding_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jash640/Coding_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jash640/Coding_practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jash640/Coding_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Jash640/Coding_practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
