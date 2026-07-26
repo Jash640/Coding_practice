@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jash640/Coding_practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Jash640/Coding_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Jash640/Coding_practice/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jash640/Coding_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Jash640/Coding_practice/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Jash640/Coding_practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Jash640/Coding_practice/tree/master/1331-rank-transform-of-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jash640/Coding_practice/tree/master/0062-unique-paths) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jash640/Coding_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jash640/Coding_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jash640/Coding_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jash640/Coding_practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/Jash640/Coding_practice/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jash640/Coding_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jash640/Coding_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Jash640/Coding_practice/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jash640/Coding_practice/tree/master/3536-maximum-product-of-two-digits) |
