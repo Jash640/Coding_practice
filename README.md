@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Jash640/Coding_practice/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jash640/Coding_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Jash640/Coding_practice/tree/master/0148-sort-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jash640/Coding_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jash640/Coding_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jash640/Coding_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jash640/Coding_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jash640/Coding_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jash640/Coding_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jash640/Coding_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jash640/Coding_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jash640/Coding_practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Jash640/Coding_practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jash640/Coding_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jash640/Coding_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jash640/Coding_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jash640/Coding_practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jash640/Coding_practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jash640/Coding_practice/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jash640/Coding_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
