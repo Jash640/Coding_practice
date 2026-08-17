@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Jash640/Coding_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jash640/Coding_practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jash640/Coding_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Jash640/Coding_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jash640/Coding_practice/tree/master/1140-stone-game-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Jash640/Coding_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
