@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jash640/Coding_practice/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Jash640/Coding_practice/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jash640/Coding_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jash640/Coding_practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/Jash640/Coding_practice/tree/master/1927-sum-game) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jash640/Coding_practice/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Jash640/Coding_practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Jash640/Coding_practice/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/Jash640/Coding_practice/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Jash640/Coding_practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Jash640/Coding_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Jash640/Coding_practice/tree/master/0435-non-overlapping-intervals) |
